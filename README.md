@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moataz</h1>
 <h3 align="center">Curious data scientist exploring insights from complex datasets with ML/DL. Passionate about continuous learning and collaborating with my peers.</h3>
 
-- 🔭 My most recent project [deep learning image recognition modelling](https://github.com/Moataz-Ab/DL_Image_Recognition_Project)
+- 🔭 My most recent project [deep learning image recognition modelling](https://github.com/Moataz-Ab/Deep-Learning-Image-Recognition-Project)
 
 - 🌱 I’m currently learning **deep learning time series forecasting**
 
