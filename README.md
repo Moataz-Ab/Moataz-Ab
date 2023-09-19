@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moataz-Ab?tab=repositories](https://github.com/Moataz-Ab?tab=repositories)
 
-- 📫 How to reach me **moataz.abdelmegid@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3> **moataz.abdelmegid@outlook.com**
 <p align="left">
 </p>
 
