@@ -9,7 +9,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3> **moataz.abdelmegid@outlook.com**
+<h3 align="left">Connect with me:</h3> **[[moataz.abdelmegid@outlook.com](https://www.linkedin.com/in/moataz-abdelmegid/)](https://www.linkedin.com/in/moataz-abdelmegid/)**
 <p align="left">
 </p>
 
