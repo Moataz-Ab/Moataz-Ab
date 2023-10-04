@@ -4,7 +4,7 @@
 :rocket: Some recent projects:
 * :camera: [Deep learning image recognition](https://github.com/Moataz-Ab/Deep-Learning-Image-Recognition-Project).
 * :speech_balloon: [Machine learning NLP case study](https://github.com/Moataz-Ab/ML_NLP_Case_Study).
-* :email: How to reach me **moataz.abdelmegid@outlook.com**
+* :email: How to reach me: **moataz.abdelmegid@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
