@@ -3,8 +3,8 @@
 
 :rocket: Some recent projects:
 * 🔉 [GenAI tool for generating an audio story from an image](https://github.com/Moataz-Ab/Image-to-Speech-GenAI-tool)
-* :camera: [Deep learning image recognition multi-classification](https://github.com/Moataz-Ab/Deep-Learning-Image-Recognition-Project)
 * 🤖 [Generative AI LLM prompting tool for PM RAG system](https://github.com/Moataz-Ab/GenAI-LLM-RAG-bot)
+* :camera: [Deep learning image recognition multi-classification](https://github.com/Moataz-Ab/Deep-Learning-Image-Recognition-Project)
 * :speech_balloon: [Machine learning NLP case study](https://github.com/Moataz-Ab/ML_NLP_Case_Study)
 * :email: How to reach me: **moataz.abdelmegid@outlook.com**
 
