@@ -3,7 +3,7 @@
 
 :rocket: Some recent projects:
 * :speech_balloon: [Analytic classification using NLP ML](https://github.com/Moataz-Ab/ML_NLP_Case_Study)
-* * 🤖 [Generative AI LLM prompting tool for project management RAG system](https://github.com/Moataz-Ab/GenAI-LLM-RAG-bot)
+* 🤖 [Generative AI LLM prompting tool for project management RAG system](https://github.com/Moataz-Ab/GenAI-LLM-RAG-bot)
 * 🔉 [GenAI tool for generating an audio story from an image](https://github.com/Moataz-Ab/Image-to-Speech-GenAI-tool)
 * :camera: [Deep learning image recognition multi-classification](https://github.com/Moataz-Ab/Deep-Learning-Image-Recognition-Project)
 * :email: How to reach me: **moataz.abdelmegid@outlook.com**
