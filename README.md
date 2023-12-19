@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moataz</h1>
-<h3 align="center">Data scientist turning data into insights, one line of code at a time</h3>
+<h3 align="center">Data analyst turning data into insights, one line of code at a time</h3>
 
 :rocket: Some recent projects:
 * 🔉 [GenAI tool for generating an audio story from an image](https://github.com/Moataz-Ab/Image-to-Speech-GenAI-tool)
