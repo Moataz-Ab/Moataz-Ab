@@ -7,7 +7,8 @@
 * 🤖 [Generative AI LLM prompting tool for project management RAG system](https://github.com/Moataz-Ab/GenAI-LLM-RAG-bot)
 * 🔉 [GenAI tool for generating an audio story from an image](https://github.com/Moataz-Ab/Image-to-Speech-GenAI-tool)
 * :camera: [Deep learning image recognition multi-classification](https://github.com/Moataz-Ab/Deep-Learning-Image-Recognition-Project)
-* :email: How to reach me: **moataz.abdelmegid@outlook.com**
+
+:email: How to reach me: **moataz.abdelmegid@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
