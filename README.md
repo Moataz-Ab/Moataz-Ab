@@ -2,6 +2,7 @@
 <h3 align="center">Data analyst turning data into insights, one line of code at a time</h3>
 
 :rocket: Some recent projects:
+* :moneybag: [Revenue Growth Forecasting for Online Retail Shop Chain](https://github.com/Moataz-Ab/revenue-forecasting-analysis)
 * :speech_balloon: [Analytic classification using NLP ML](https://github.com/Moataz-Ab/ML_NLP_Case_Study)
 * 🤖 [Generative AI LLM prompting tool for project management RAG system](https://github.com/Moataz-Ab/GenAI-LLM-RAG-bot)
 * 🔉 [GenAI tool for generating an audio story from an image](https://github.com/Moataz-Ab/Image-to-Speech-GenAI-tool)
