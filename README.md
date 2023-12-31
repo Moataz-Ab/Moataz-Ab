@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moataz</h1>
 <h3 align="center">Data analyst turning data into insights, one line of code at a time</h3>
 
-:rocket: Some recent projects:
+:rocket: Project samples:
 * :microscope: [A/B testing analysis for an e-commerce website](https://github.com/Moataz-Ab/AB-Testing-Analysis-Ecommerce-Website/tree/main)
 * :moneybag: [Revenue growth forecasting for a chain of online retail shops](https://github.com/Moataz-Ab/revenue-forecasting-analysis)
 * :speech_balloon: [Analytic classification using NLP ML](https://github.com/Moataz-Ab/ML_NLP_Case_Study)
