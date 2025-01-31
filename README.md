@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moataz</h1>
-<h3 align="center">Data analyst turning data into insights, one line of code at a time</h3>
+<h3 align="center">Data exper and key account manager >> turning data into insights, one line of code at a time</h3>
 
 :rocket: Project samples:
 * :microscope: [A/B testing analysis for an e-commerce website](https://github.com/Moataz-Ab/AB-Testing-Analysis-Ecommerce-Website/tree/main)
